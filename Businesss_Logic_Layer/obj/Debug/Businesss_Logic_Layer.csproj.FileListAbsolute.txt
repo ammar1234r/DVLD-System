@@ -1,0 +1,23 @@
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.exe.config
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.exe
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.pdb
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.exe
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.pdb
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.exe.config
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Business.4B41063D.Up2Date
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.exe
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.pdb
+C:\Users\ayamm\Desktop\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.exe.config
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.dll.config
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\Businesss_Logic_Layer.pdb
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.pdb
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\bin\Debug\DataAccesesLayer.dll.config
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\obj\Debug\Business.4B41063D.Up2Date
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\Businesss_Logic_Layer\obj\Debug\Businesss_Logic_Layer.pdb

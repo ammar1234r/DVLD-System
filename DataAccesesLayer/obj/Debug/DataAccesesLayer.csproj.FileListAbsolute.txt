@@ -1,0 +1,7 @@
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\bin\Debug\DataAccesesLayer.dll.config
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\bin\Debug\DataAccesesLayer.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\bin\Debug\DataAccesesLayer.pdb
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\obj\Debug\DataAccesesLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\obj\Debug\DataAccesesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\obj\Debug\DataAccesesLayer.dll
+C:\Users\Lenovo\OneDrive\سطح المكتب\DVDL project\DataAccesesLayer\obj\Debug\DataAccesesLayer.pdb
